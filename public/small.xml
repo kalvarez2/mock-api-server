@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTA_AirLowFareSearchRS TimeStamp="2018-03-27T19:38:04.808+00:00" Target="Test" Version="16.39" PrimaryLangID="en">
+   <Success/>
+   <Warnings>
+      <Warning Type="11.EWT" Code="944">Air Canada Business Class with fully lie-flat seats.</Warning>
+   </Warnings>
+   <PricedItineraries>
+      <PricedItinerary SequenceNumber="1">
+         <AirItinerary DirectionInd="OneWay">
+            <OriginDestinationOptions>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T07:00:00" ArrivalDateTime="2018-11-17T08:52:00" StopQuantity="0" FlightNumber="101" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="789"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpdX7sgkOxkvydrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRwqoYBzhRqVyzwpiCzpoaa+bvrZjlQ5UHAjtIDL517prWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT04H52M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T09:00:00" ArrivalDateTime="2018-11-17T11:19:00" StopQuantity="0" FlightNumber="105" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="321"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpjmlRLfJpmvCdrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRS1506uefoVWzwpiCzpoaa+bvrZjlQ5UHXvGCvklqJxfWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H19M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T10:15:00" ArrivalDateTime="2018-11-17T12:34:00" StopQuantity="0" FlightNumber="107" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="321"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpTFc8hGukI/mdrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRS1506uefoVWzwpiCzpoaa+bvrZjlQ5UHXvGCvklqJxfWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H19M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T12:45:00" ArrivalDateTime="2018-11-17T15:04:00" StopQuantity="0" FlightNumber="111" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="321"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="2" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpYPoz/3WUgZ2drQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRS1506uefoVWzwpiCzpoaa+bvrZjlQ5UHXvGCvklqJxfWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H19M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T14:30:00" ArrivalDateTime="2018-11-17T16:40:00" StopQuantity="0" FlightNumber="115" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="321"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpVxDfeFTcwOGdrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRS1506uefoVWzwpiCzpoaa+bvrZjlQ5UH2WzWD2XLnFrWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H10M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T16:10:00" ArrivalDateTime="2018-11-17T18:29:00" StopQuantity="0" FlightNumber="119" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="321"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpTG72Dcu+zAWdrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRS1506uefoVWzwpiCzpoaa+bvrZjlQ5UHXvGCvklqJxfWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H19M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T17:00:00" ArrivalDateTime="2018-11-17T18:57:00" StopQuantity="0" FlightNumber="121" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="77W"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpZDLeS40qc5idrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TR2Rfm1CWcNI+zwpiCzpoaa+bvrZjlQ5UH+StRGxn7xMzWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT04H57M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T18:10:00" ArrivalDateTime="2018-11-17T20:18:00" StopQuantity="0" FlightNumber="123" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="763"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETplHPj+2M7akudrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRngVWY1cVgAyzwpiCzpoaa+bvrZjlQ5UHFacuy4JLLZHWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H08M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T19:00:00" ArrivalDateTime="2018-11-17T21:19:00" StopQuantity="0" FlightNumber="125" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="320"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpeIp4hcxEddj1kbBAsBJ3M9RvnkolOW2sY5UP1KAcejAKrqdxiWKVb19DEcFZWQr/Ju32U/g9Cek7MB/oh0nUk4X02zmDWIY4SCbdhECHQSvPftzjJyERkgRZJiRMs6BXaqwDt+H9hu8=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H19M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T20:15:00" ArrivalDateTime="2018-11-17T22:12:00" StopQuantity="0" FlightNumber="033" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="77L"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETpmXmOPzDdexydrQp8a5XYQNFlGDwL45oqMk0QoykT0a2sozKqlfU/28fm9FKig5TRGATQlKa0W9uzwpiCzpoaa+bvrZjlQ5UH+StRGxn7xMzWvAWMrbangFDyXaO7g2dPJHd23mGrFEk=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT04H57M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="1">
+                  <FlightSegment DepartureDateTime="2018-11-17T22:55:00" ArrivalDateTime="2018-11-18T01:14:00" StopQuantity="0" FlightNumber="129" ResBookDesigCode="L" E_TicketEligibility="Eligible" MealCode="F" DateChangeNbr="1">
+                     <DepartureAirport LocationCode="YYZ" Terminal="1"/>
+                     <ArrivalAirport LocationCode="YVR" Terminal="M"/>
+                     <Equipment AirEquipType="320"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="L" ResBookDesigQuantity="9" RPH="0"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4rS0gLsQETp3CtZzXhralL1kbBAsBJ3M9RvnkolOW2sY5UP1KAcejAKrqdxiWKVb19DEcFZWQr/Ju32U/g9Cek7MB/oh0nUk4X02zmDWIY4jioxfNu+7PQhEPaNVC0/2YFYH1FnFOJawbUmEjyjZJWpU9LrA3wFEg==</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT05H19M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+            </OriginDestinationOptions>
+         </AirItinerary>
+         <AirItineraryPricingInfo>
+            <ItinTotalFare NegotiatedFare="false">
+               <BaseFare Amount="181.39" CurrencyCode="USD" DecimalPlaces="2"/>
+               <TotalFare Amount="266.13" CurrencyCode="USD" DecimalPlaces="2"/>
+            </ItinTotalFare>
+            <PTC_FareBreakdowns>
+               <PTC_FareBreakdown>
+                  <PassengerTypeQuantity Code="10.AQC" Quantity="1"/>
+                  <FareBasisCodes>
+                     <FareBasisCode>L0C4BA</FareBasisCode>
+                  </FareBasisCodes>
+                  <PassengerFare>
+                     <BaseFare Amount="181.39" CurrencyCode="USD" DecimalPlaces="2"/>
+                     <Taxes Amount="66.91">
+                        <Tax TaxCode="RC" Amount="28.39">Canada Harmonized Sales Tax (GST/HST #10009-2287 RT0001)</Tax>
+                        <Tax TaxCode="SQ" Amount="19.38">Canada Airport Improvement Fee</Tax>
+                        <Tax TaxCode="US" Amount="14.94">U.S.A Transportation Tax</Tax>
+                        <Tax TaxCode="ZP" Amount="4.20">U.S. Flight Segment Tax</Tax>
+                     </Taxes>
+                     <Fees>
+                        <Fee Amount="17.83" FeeCode="S1">Navigation Surcharge</Fee>
+                     </Fees>
+                     <TotalFare Amount="266.13" CurrencyCode="USD" DecimalPlaces="2"/>
+                     <TPA_Extensions>
+                        <FARE_FAMILY>Basic</FARE_FAMILY>
+                     </TPA_Extensions>
+                  </PassengerFare>
+               </PTC_FareBreakdown>
+            </PTC_FareBreakdowns>
+         </AirItineraryPricingInfo>
+      </PricedItinerary>
+      <PricedItinerary SequenceNumber="50">
+         <AirItinerary DirectionInd="OneWay">
+            <OriginDestinationOptions>
+               <OriginDestinationOption RefNumber="2">
+                  <FlightSegment DepartureDateTime="2018-11-21T11:10:00" ArrivalDateTime="2018-11-21T13:35:00" StopQuantity="0" FlightNumber="210" ResBookDesigCode="D" E_TicketEligibility="Eligible" MealCode="S">
+                     <DepartureAirport LocationCode="YVR" Terminal="M"/>
+                     <ArrivalAirport LocationCode="YYC"/>
+                     <Equipment AirEquipType="319"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="D" ResBookDesigQuantity="9" RPH="49"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4mWoP8go85stz4jl4F/42MXf/v5s1Ttdhid/7jx2dGd685X/93C1XKoAIc05VybChE0GEyBaP3WyM1ErhoznswKSRE4Z8qBlD3/h3PkW+cNtE1BkY7bmgD0S3oUS3stbWEMiA0PzuREojglV7Q2OEwjJMdE/K+hhLQr7zOBTOdf</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT01H25M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+                  <FlightSegment DepartureDateTime="2018-11-21T14:15:00" ArrivalDateTime="2018-11-21T20:00:00" StopQuantity="0" FlightNumber="148" ResBookDesigCode="D" E_TicketEligibility="Eligible" MealCode="M">
+                     <DepartureAirport LocationCode="YYC"/>
+                     <ArrivalAirport LocationCode="YYZ" Terminal="1"/>
+                     <Equipment AirEquipType="320"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="D" ResBookDesigQuantity="9" RPH="49"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI6O8z0dOis2ZtOn4Ur+ZD2UxHWe7oGXatj3yT7IiPE4YJu32U/g9CencwQ6k5Ry9+3lwPu9MlE6gyHqDnlw/gUQ=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT03H45M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+               <OriginDestinationOption RefNumber="2">
+                  <FlightSegment DepartureDateTime="2018-11-21T14:55:00" ArrivalDateTime="2018-11-21T17:21:00" StopQuantity="0" FlightNumber="216" ResBookDesigCode="D" E_TicketEligibility="Eligible" MealCode="S">
+                     <DepartureAirport LocationCode="YVR" Terminal="M"/>
+                     <ArrivalAirport LocationCode="YYC"/>
+                     <Equipment AirEquipType="319"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="D" ResBookDesigQuantity="7" RPH="49"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI4mWoP8go85sVFd/UVCHmRsXf/v5s1Ttdhid/7jx2dGd685X/93C1XKoAIc05VybChE0GEyBaP3WyM1ErhoznswKSRE4Z8qBlD3/h3PkW+cNtroCf+KFqbn0S3oUS3stbWEMiA0PzuREojglV7Q2OEwjJMdE/K+hhLQr7zOBTOdf</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT01H26M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+                  <FlightSegment DepartureDateTime="2018-11-21T18:00:00" ArrivalDateTime="2018-11-21T23:41:00" StopQuantity="0" FlightNumber="152" ResBookDesigCode="D" E_TicketEligibility="Eligible" MealCode="M">
+                     <DepartureAirport LocationCode="YYC"/>
+                     <ArrivalAirport LocationCode="YYZ" Terminal="1"/>
+                     <Equipment AirEquipType="320"/>
+                     <MarketingAirline Code="AC" CompanyShortName="Air Canada"/>
+                     <BookingClassAvails>
+                        <BookingClassAvail ResBookDesigCode="D" ResBookDesigQuantity="7" RPH="49"/>
+                     </BookingClassAvails>
+                     <Comment>SWQguocuepv9byWNBG6bI6O8z0dOis2ZtOn4Ur+ZD2UxHWe7oGXatj3yT7IiPE4YJu32U/g9CencwQ6k5Ry9+3lwPu9MlE6g1tW4wVZa0IQ=</Comment>
+                     <TPA_Extensions>
+                        <JourneyDuration>PT03H41M</JourneyDuration>
+                     </TPA_Extensions>
+                  </FlightSegment>
+               </OriginDestinationOption>
+            </OriginDestinationOptions>
+         </AirItinerary>
+         <AirItineraryPricingInfo>
+            <ItinTotalFare NegotiatedFare="true">
+               <BaseFare Amount="1591.07" CurrencyCode="USD" DecimalPlaces="2"/>
+               <TotalFare Amount="1955.07" CurrencyCode="USD" DecimalPlaces="2"/>
+            </ItinTotalFare>
+            <PTC_FareBreakdowns>
+               <PTC_FareBreakdown>
+                  <PassengerTypeQuantity Code="10.AQC" Quantity="1"/>
+                  <FareBasisCodes>
+                     <FareBasisCode>D7C4EF</FareBasisCode>
+                     <FareBasisCode>D7C4EF</FareBasisCode>
+                  </FareBasisCodes>
+                  <PassengerFare>
+                     <BaseFare Amount="1591.07" CurrencyCode="USD" DecimalPlaces="2"/>
+                     <Taxes Amount="346.17">
+                        <Tax TaxCode="RC" Amount="209.20">Canada Harmonized Sales Tax (GST/HST #10009-2287 RT0001)</Tax>
+                        <Tax TaxCode="SQ" Amount="15.50">Canada Airport Improvement Fee</Tax>
+                        <Tax TaxCode="US" Amount="120.67">U.S.A Transportation Tax</Tax>
+                        <Tax TaxCode="XG" Amount="0.80">Canada Goods and Services Tax (GST/HST #10009-2287 RT0001)</Tax>
+                     </Taxes>
+                     <Fees>
+                        <Fee Amount="17.83" FeeCode="S1">Navigation Surcharge</Fee>
+                     </Fees>
+                     <TotalFare Amount="1955.07" CurrencyCode="USD" DecimalPlaces="2"/>
+                     <TPA_Extensions>
+                        <FARE_FAMILY>Business Class (flexible)</FARE_FAMILY>
+                     </TPA_Extensions>
+                  </PassengerFare>
+               </PTC_FareBreakdown>
+            </PTC_FareBreakdowns>
+            <FareInfos>
+               <FareInfo>
+                  <FareReference>RFB150K</FareReference>
+                  <RuleInfo/>
+                  <FilingAirline/>
+                  <DepartureAirport>YVR</DepartureAirport>
+                  <ArrivalAirport>YYZ</ArrivalAirport>
+                  <TPA_Extensions>
+                     <RewardProgram ProgramID="SME">
+                        <AccountID>PN02129</AccountID>
+                     </RewardProgram>
+                  </TPA_Extensions>
+               </FareInfo>
+            </FareInfos>
+         </AirItineraryPricingInfo>
+      </PricedItinerary>
+      <TPA_Extensions>
+         <TOOL_TIPS>
+            <TOOL_TIP FareFamily="Basic">
+               <Text>2 checked bags for a fee</Text>
+               <Text>No flight changes</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Standard">
+               <Text>2 checked bags for a fee</Text>
+               <Text>Changes for a fee</Text>
+               <Text>25% Aeroplan Miles</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Flex">
+               <Text>1st checked bag free</Text>
+               <Text>Changes for a discounted fee</Text>
+               <Text>100% Aeroplan Miles</Text>
+               <Text>Free standard seat selection</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Comfort">
+               <Text>1st checked bag free</Text>
+               <Text>Changes permitted (a fee may apply)</Text>
+               <Text>115% Aeroplan Miles</Text>
+               <Text>Free standard and Preferred seat selection</Text>
+               <Text>Free same-day standby</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Latitude">
+               <Text>2 checked bags free</Text>
+               <Text>Free changes and cancellations</Text>
+               <Text>125% Aeroplan Miles</Text>
+               <Text>Free extra legroom and standard seat selection</Text>
+               <Text>Free same-day standby</Text>
+               <Text>Priority check-in, baggage and boarding</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Premium Economy (lowest)">
+               <Text>2 checked bags free</Text>
+               <Text>Dedicated cabin, larger seat, more legroom</Text>
+               <Text>Premium meal service</Text>
+               <Text>Priority check-in, baggage and boarding</Text>
+               <Text>125% Aeroplan Miles</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Premium Economy (flexible)">
+               <Text>2 checked bags free</Text>
+               <Text>Dedicated cabin, larger seat, more legroom</Text>
+               <Text>Premium meal service</Text>
+               <Text>Priority check-in, baggage and boarding</Text>
+               <Text>125% Aeroplan Miles</Text>
+               <Text>Free changes, cancellations and standby</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Business Class (lowest)">
+               <Text>2 checked bags free</Text>
+               <Text>Maple Leaf Lounge access</Text>
+               <Text>Exclusive cabin, superior comfort and space</Text>
+               <Text>Inspired cuisine, selected wines and spirits</Text>
+               <Text>Priority check-in, security, baggage and boarding</Text>
+               <Text>150% Aeroplan Miles</Text>
+            </TOOL_TIP>
+            <TOOL_TIP FareFamily="Business Class (flexible)">
+               <Text>2 checked bags free</Text>
+               <Text>Maple Leaf Lounge access</Text>
+               <Text>Exclusive cabin, superior comfort and space</Text>
+               <Text>Inspired cuisine, selected wines and spirits</Text>
+               <Text>Priority check-in, security, baggage and boarding</Text>
+               <Text>150% Aeroplan Miles</Text>
+               <Text>Free changes, cancellations and standby</Text>
+            </TOOL_TIP>
+         </TOOL_TIPS>
+         <Notes>
+            <Note>https://www.aircanada.com/shared/en/agents_na/flights/pop_faretypes.html</Note>
+            <Note>http://www.aircanada.com/shared/en/common/flights/pop_aboutfares1.html</Note>
+            <Note>Air Canada ac2u response will always contain local time of the selected city.</Note>
+            <Note>Baggage Fees may apply, please review our Checked baggage at http://www.aircanada.com/en/travelinfo/airport/baggage/checked.html and Carry-On baggage at http://www.aircanada.com/en/travelinfo/airport/baggage/carry-on.html pages for more information.</Note>
+            <Note>Note that different baggage policies, fees and rules may apply to flights operated by other airlines http://www.aircanada.com/en/travelinfo/airport/codeshare.html</Note>
+            <Note>Fully Lie Flat Seats with comfortable oversized duvet blanket and pillow on all wide body aircraft equipment types that operates on this route. https://www.aircanada.com/ca/en/aco/home/fly/onboard/cabin-features/international-business-class.html</Note>
+         </Notes>
+         <Market Code="D">Domestic</Market>
+      </TPA_Extensions>
+   </PricedItineraries>
+</OTA_AirLowFareSearchRS>
