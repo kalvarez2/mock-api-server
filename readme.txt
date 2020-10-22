@@ -1,4 +1,4 @@
-Will serve each files given the file name on the  target folder, and a random content at /random. If /data/tmp/ contains file1.txt and file2.txt
+Will serve each files given the file name on the  target folder, and a random content at random. If /data/tmp/ contains file1.txt and file2.txt
 http://localhost:8090/random will return either the contents of file1.txt or file2.txt
 
 Examples:
