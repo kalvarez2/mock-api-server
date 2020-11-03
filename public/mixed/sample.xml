@@ -1,0 +1,42 @@
+<carrierResponse>
+    <results>
+        <solution>
+            <flight>
+                <from>MIA</from>
+                <to>MAD</to>
+                <depart>Aug 13 2020 8:00 am</depart>
+                <arrive>Aug 13 2020 6:00 pm</arrive>
+            </flight>
+            <services>
+                <bags>included in price</bags>
+                <meal>for a $20</meal>
+                <wifi>in your dreams</wifi>
+            </services>
+            <price>
+                <fare>700.54</fare>
+                <taxes>123.56</taxes>
+                <fees>24.22</fees>
+                <total>860.00</total>
+            </price>
+        </solution>
+        <solution>
+            <flight>
+                <from>MIA</from>
+                <to>MAD</to>
+                <depart>Aug 13 2020 8:00 pm</depart>
+                <arrive>Aug 13 2020 11:50 pm</arrive>
+            </flight>
+            <services>
+                <bags>included in price</bags>
+                <meal>included in price</meal>
+                <wifi>included in price</wifi>
+            </services>
+            <price>
+                <fare>700.54</fare>
+                <taxes>123.56</taxes>
+                <fees>24.22</fees>
+                <total>860.00</total>
+            </price>
+        </solution>
+    </results>
+</carrierResponse>
